@@ -36,7 +36,7 @@
     "newrelic": "~1.25.1",
     "request": "2.69.0",
     "split": "1.0.0",
-    "supertest": "1.1.0",
+    "supertest": "1.2.0",
     "underscore": "*",
     "webdriverjs": "1.7.5",
     "xmldoc": "0.4.0"
