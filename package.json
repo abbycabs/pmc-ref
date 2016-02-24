@@ -29,7 +29,7 @@
     "express": "4.13.4",
     "hjs": "*",
     "jade": "~1.11.0",
-    "less-middleware": "*",
+    "less-middleware": "2.1.0",
     "mocha": "*",
     "mongodb": "2.1.7",
     "mongoose": "4.4.2",
