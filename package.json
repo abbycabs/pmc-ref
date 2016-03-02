@@ -21,7 +21,7 @@
     "test-docs": "mocha --ui tdd -R list tests/pipeline/tests/document.controller.unit.tests.js"
   },
   "dependencies": {
-    "JSONStream": "1.0.7",
+    "JSONStream": "1.1.1",
     "async": "1.5.2",
     "body-parser": "^1.14.2",
     "chai": "*",
