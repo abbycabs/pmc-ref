@@ -32,7 +32,7 @@
     "less-middleware": "*",
     "mocha": "*",
     "mongodb": "2.1.7",
-    "mongoose": "4.4.2",
+    "mongoose": "4.4.6",
     "newrelic": "~1.25.1",
     "request": "2.69.0",
     "split": "1.0.0",
